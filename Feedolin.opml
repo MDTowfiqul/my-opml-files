@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>My RSS Subscriptions</title>
+    </head>
+    <body>
+        
+        <outline text="IslamicBlog" title="IslamicBlog">
+            <outline type="rss" text="Sheikh Ahmadullah" title="Sheikh Ahmadullah" xmlUrl="https://ahmadullah.info/feed" htmlUrl="https://ahmadullah.info/"/>
+            <outline type="rss" text="ইসলাম জিজ্ঞাসা ও জবাব" title="ইসলাম জিজ্ঞাসা ও জবাব" xmlUrl="https://islamqa.info/bn/rss.xml" htmlUrl="https://islamqa.info/bn"/>
+            <outline type="rss" text="Muslim Skeptic" title="Muslim Skeptic" xmlUrl="https://muslimskeptic.com/bn/feed/" htmlUrl="https://muslimskeptic.com/bn/home/"/>
+            <outline type="rss" text="The Thinking Muslim" title="The Thinking Muslim" xmlUrl="https://rameezabid.substack.com/feed/" htmlUrl="https://rameezabid.substack.com"/>
+            <outline type="rss" text="hoytoba.com - হয়তোবা.কম" title="hoytoba.com - হয়তোবা.কম" xmlUrl="https://bibijaan.com/feed/" htmlUrl="https://hoytoba.com"/>
+        </outline>
+
+        <outline text="MedicalBlog" title="MedicalBlog">
+            <outline type="rss" text="medivoicebd.com" title="medivoicebd.com" xmlUrl="https://medivoicebd.com/feed/" htmlUrl="https://medivoicebd.com"/>
+            <outline type="rss" text="Medishark" title="Medishark" xmlUrl="https://medisharkbd.com/feed/" htmlUrl="https://medisharkbd.com/"/>
+            <outline type="rss" text="Medi Times BD" title="Medi Times BD" xmlUrl="https://meditimesbd.com/feed/" htmlUrl="https://meditimesbd.com"/>
+            <outline type="rss" text="প্ল্যাটফর্ম" title="প্ল্যাটফর্ম" xmlUrl="https://www.platform-med.org/feed/" htmlUrl="https://www.platform-med.org/"/>
+        </outline>
+
+        <outline text="Youtube" title="youtube">
+            <outline type="rss" text="Verbrechen" title="Verbrechen" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeCAQhKbU2ETNWxWxB94HgA" htmlUrl="https://www.youtube.com/channel/UCeCAQhKbU2ETNWxWxB94HgA"/>
+        </outline>
+
+    </body>
+</opml>
