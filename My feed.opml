@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Twine RSS Feeds</title>
+  </head>
+  <body>
+    <outline title="Medical " text="Medical ">
+      <outline title="প্ল্যাটফর্ম" text="প্ল্যাটফর্ম" type="rss" xmlUrl="https://www.platform-med.org/feed/" />
+      <outline title="AfraTafreeh | Free is Better" text="AfraTafreeh | Free is Better" type="rss" xmlUrl="https://afratafreeh.com/feed/" />
+      <outline title="medivoicebd.com" text="medivoicebd.com" type="rss" xmlUrl="https://medivoicebd.com/feed/" />
+    </outline>
+    <outline title="ইসলামিক লেখকদের ব্লগ " text="ইসলামিক লেখকদের ব্লগ ">
+      <outline title="Ali Hasan Osama" text="Ali Hasan Osama" type="rss" xmlUrl="https://alihasanosama.com/feed/" />
+      <outline title="Visual Capitalist" text="Visual Capitalist" type="rss" xmlUrl="http://feeds.feedburner.com/visualcapitalist" />
+      <outline title="Comments on: ঘুম [ আপনার অভ্যাস পরিবর্তন করুন ]" text="Comments on: ঘুম [ আপনার অভ্যাস পরিবর্তন করুন ]" type="rss" xmlUrl="https://quraneralo.com/sleep/feed/" />
+      <outline title="Asif Mahmud Blogs" text="Asif Mahmud Blogs" type="rss" xmlUrl="https://asifalmahmud.blogspot.com/feeds/posts/default" />
+      <outline title="Thomas Frank" text="Thomas Frank" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCG-KntY7aVnIGXYEBQvmBAQ" />
+      <outline title="Tiago Forte" text="Tiago Forte" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmvYCRYPDlzSHVNCI_ViJDQ" />
+      <outline title="Forte Labs" text="Forte Labs" type="rss" xmlUrl="https://fortelabs.com/feed/" />
+      <outline title="Trickbd.com" text="Trickbd.com" type="rss" xmlUrl="https://trickbd.com/feed" />
+      <outline title="Thomas Frank" text="Thomas Frank" type="rss" xmlUrl="https://thomasjfrank.com/feed/" />
+      <outline title="Rafan Ahmed" text="Rafan Ahmed" type="rss" xmlUrl="https://rafanofficial.wordpress.com/feed/" />
+      <outline title="Better Ideas" text="Better Ideas" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtUId5WFnN82GdDy7DgaQ7w" />
+      <outline title="Nouman Ali Khan Collection - Home" text="Nouman Ali Khan Collection - Home" type="rss" xmlUrl="https://www.nakcollection.com/1/feed" />
+      <outline title="হাসানের রাফখাতা – Hasaner Rafkhata" text="হাসানের রাফখাতা – Hasaner Rafkhata" type="rss" xmlUrl="https://hellohasan.com/feed/" />
+      <outline title="কুরআনিক অ্যারাবিক" text="কুরআনিক অ্যারাবিক" type="rss" xmlUrl="https://qarabic.net/feed/" />
+      <outline title="Asif Mahmud Blogs" text="Asif Mahmud Blogs" type="rss" xmlUrl="https://asifalmahmud.blogspot.com/feeds/posts/default?alt=rss" />
+      <outline title="Asif Adnan - Archive" text="Asif Adnan - Archive" type="rss" xmlUrl="https://chintaporadh.com/feed/" />
+      <outline title="Ali Abdaal" text="Ali Abdaal" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoOae5nYA7VqaXzerajD0lg" />
+      <outline title="Ali Abdaal" text="Ali Abdaal" type="rss" xmlUrl="https://aliabdaal.com/feed/" />
+      <outline title="Sheikh Ahmadullah" text="Sheikh Ahmadullah" type="rss" xmlUrl="https://ahmadullah.info/feed" />
+    </outline>
+    <outline title="ইসলামিক ওয়েবসাইট" text="ইসলামিক ওয়েবসাইট">
+      <outline title="IlmDrive" text="IlmDrive" type="rss" xmlUrl="https://ilmdrive.com/feed/" />
+      <outline title="Muslim Media (মুসলিম মিডিয়া)" text="Muslim Media (মুসলিম মিডিয়া)" type="rss" xmlUrl="https://www.muslimmedia.info/feed" />
+      <outline title="ওয়াফিলাইফ ব্লগ" text="ওয়াফিলাইফ ব্লগ" type="rss" xmlUrl="https://blog.wafilife.com/feed/" />
+      <outline title="Islamestic" text="Islamestic" type="rss" xmlUrl="https://www.islamestic.com/feed/" />
+      <outline title="সংকলন" text="সংকলন" type="rss" xmlUrl="https://songkolon.com/feed" />
+      <outline title="hoytoba.com - হয়তোবা.কম" text="hoytoba.com - হয়তোবা.কম" type="rss" xmlUrl="https://hoytoba.com/feed/" />
+      <outline title="Islamhouse.com (BENGALI)" text="Islamhouse.com (BENGALI)" type="rss" xmlUrl="https://islamhouse.com/RSS/IslamHouse-all-BN-BN.xml" />
+      <outline title="Riwayahbd" text="Riwayahbd" type="rss" xmlUrl="https://riwayahbd.com/feed/" />
+      <outline title="দারুল ইলম" text="দারুল ইলম" type="rss" xmlUrl="http://darulilm.org/feed/" />
+    </outline>
+    <outline title="QuranerAlo.com – কুরআনের আলো ইসলামিক ওয়েবসাইট" text="QuranerAlo.com – কুরআনের আলো ইসলামিক ওয়েবসাইট" type="rss" xmlUrl="http://feeds.feedburner.com/QuranerAlo" />
+  </body>
+</opml>
